@@ -8,7 +8,7 @@ public class Question1 {
         int perimeter;
         boolean square;
 
-        public Rectangle(int width, int height) {
+        Rectangle(int width, int height) {
             this.width = width;
             this.height = height;
         }

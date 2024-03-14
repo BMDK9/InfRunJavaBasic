@@ -6,7 +6,7 @@ public class Question2 {
 
         int balance;
 
-        public Account(int balance) {
+        Account(int balance) {
             this.balance = balance;
         }
 
