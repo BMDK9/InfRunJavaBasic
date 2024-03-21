@@ -1,6 +1,6 @@
-package poly.question.one;
+package poly.ex.two;
 
-public class Cow extends Animal {
+public class Cow extends AbAnimal {
 
     @Override
     public void sound(){

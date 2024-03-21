@@ -1,4 +1,4 @@
-package poly.question.two;
+package poly.ex.two;
 
 public class AnimalSoundMain {
 

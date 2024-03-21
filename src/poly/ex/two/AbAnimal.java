@@ -1,4 +1,4 @@
-package poly.question.two;
+package poly.ex.two;
 
 public abstract class AbAnimal { // abstract(추상) 클래스, 추상 메서드가 하나라도 있으면 클래스는 추상으로
 // 추상 메서드는 인스턴스화 불가

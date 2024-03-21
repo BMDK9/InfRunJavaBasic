@@ -1,4 +1,4 @@
-package poly.question.three;
+package poly.ex.three;
 
 public class Pig extends AbAnimal {
 

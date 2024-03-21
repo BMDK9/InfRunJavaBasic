@@ -1,4 +1,4 @@
-package poly.question.one;
+package poly.ex.one;
 
 public class Cat extends Animal {
 
