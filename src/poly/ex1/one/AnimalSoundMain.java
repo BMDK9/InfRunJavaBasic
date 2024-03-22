@@ -1,4 +1,4 @@
-package poly.ex.one;
+package poly.ex1.one;
 
 public class AnimalSoundMain {
 

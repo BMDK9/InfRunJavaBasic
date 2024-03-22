@@ -1,6 +1,6 @@
-package poly.ex.three;
+package poly.inter.ex1;
 
-public class Dog extends AbAnimal {
+public class Dog implements InterAnimal {
 
     @Override
     public void sound() {

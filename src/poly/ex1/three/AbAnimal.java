@@ -1,4 +1,4 @@
-package poly.ex.three;
+package poly.ex1.three;
 
 public abstract class AbAnimal { // 순수 추상 클래스, 다형성 강제를 위해 사용
 

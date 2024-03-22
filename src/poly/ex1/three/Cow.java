@@ -1,9 +1,14 @@
-package poly.ex.two;
+package poly.ex1.three;
 
 public class Cow extends AbAnimal {
 
     @Override
     public void sound(){
         System.out.println("음메~");
+    }
+
+    @Override
+    public void move() {
+        System.out.println("소 움직임");
     }
 }

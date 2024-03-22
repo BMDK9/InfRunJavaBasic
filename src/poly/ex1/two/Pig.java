@@ -1,4 +1,4 @@
-package poly.ex.two;
+package poly.ex1.two;
 
 public class Pig extends AbAnimal {
 

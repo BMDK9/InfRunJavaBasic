@@ -1,4 +1,4 @@
-package poly.ex.three;
+package poly.ex1.three;
 
 public class Cat extends AbAnimal {
 

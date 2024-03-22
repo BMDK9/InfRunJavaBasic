@@ -1,4 +1,4 @@
-package poly.inter;
+package poly.inter.ex1;
 
 public class AnimalSoundMain {
 

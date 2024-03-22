@@ -1,7 +1,6 @@
-package poly.inter;
+package poly.ex1.three;
 
-
-public class Pig implements InterAnimal {
+public class Pig extends AbAnimal {
 
     @Override
     public void sound() {
@@ -11,9 +10,5 @@ public class Pig implements InterAnimal {
     @Override
     public void move() {
         System.out.println("돼지 움직임");
-    }
-
-    public void pigMethod() {
-        System.out.println("돼지 전용");
     }
 }
