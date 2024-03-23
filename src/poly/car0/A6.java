@@ -4,6 +4,8 @@ public class A6 implements Car {
 
     private final String name = "A6";
 
+    protected A6() {}
+
     @Override
     public String name() {
         return this.name;

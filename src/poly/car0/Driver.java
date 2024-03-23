@@ -4,6 +4,8 @@ public class Driver {
 
     private Car car;
 
+    protected Driver() {}
+
     public void setCar(Car car) {
         this.car = car;
         System.out.println(car.name() + "로 자동차를 설정합니다");
